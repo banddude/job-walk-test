@@ -1,4 +1,3 @@
-```markdown
 # Job Walk Report
 
 **Date:** June 10, 2024
@@ -47,4 +46,3 @@ All work should be performed following standard electrical codes and safety guid
 ## Proposal
 
 An itemized proposal will be prepared and sent to Patrick for review and approval.
-```
